@@ -1,0 +1,14 @@
+.point{
+    background-color: tomato;
+    width: 6px;
+    height: 6px;
+    border-radius: 3px;
+    position: absolute;
+    right: 20px;
+    top: 55px;
+    display: flex;
+
+    
+   
+    
+    }
